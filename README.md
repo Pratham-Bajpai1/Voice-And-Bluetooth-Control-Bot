@@ -62,7 +62,7 @@ Once everything is set up, you can start controlling the bot! Speak voice comman
 
 ## Demo
 
-![](https://github.com/Pratham-Bajpai1/Voice-And-Bluetooth-Control-Bot/assets/124435912/64e6e3e7-93e5-4c4e-b5bc-bceb4585efd1)
+![video](https://github.com/Pratham-Bajpai1/Voice-And-Bluetooth-Control-Bot/assets/124435912/64e6e3e7-93e5-4c4e-b5bc-bceb4585efd1)
 
 ---
 
